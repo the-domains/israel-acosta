@@ -1,0 +1,28 @@
+name: israel-acosta
+favicon: null
+layout_spectrum: 0.5449313528370112
+typography_spectrum: 0.41446226299740374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5654189148917794
+  lightness: 0.9334141975268722
+  saturation: 0.37035163887776434
+  rhythmicContrast: 0.5939791782293469
+purpose: []
