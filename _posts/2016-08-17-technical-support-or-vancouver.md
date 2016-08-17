@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T17:41:06.223Z'
-dateModified: '2016-08-17T17:39:15.337Z'
+datePublished: '2016-08-17T17:44:25.200Z'
+dateModified: '2016-08-17T17:43:58.902Z'
 title: TECHNICAL SUPPORT | VANCOUVER
 author: []
 via: {}
@@ -46,9 +46,7 @@ Data Backup and Recovery
 
 ### Web Suport
 
-# You have to make your websites with love these days! and we support you in the processCATEGORYWeb Site Design & DevelopmentStanderwick Personal Trainer  
-standerwickpt.comHOSTINGWeb DevelopmentINTERNETWebsite development with WordpressINFORMATION SECURITYData Backup & Data RecoveryWEB DESIGNLocally designed. Globally inspired. Accessories for beautiful living.  
-islafound.ca
+# You have to make your websites with love these days! and we support you in the process
 
 ## Download Free Guide (spanish)
 
