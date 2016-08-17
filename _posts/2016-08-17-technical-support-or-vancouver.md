@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T17:44:25.200Z'
-dateModified: '2016-08-17T17:43:58.902Z'
+datePublished: '2016-08-17T18:41:56.086Z'
+dateModified: '2016-08-17T18:41:34.293Z'
 title: TECHNICAL SUPPORT | VANCOUVER
 author: []
 via: {}
@@ -20,7 +20,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c26f8934-badf-4450-b86a-9b4b01cbbbd7.jpg)
 
-# TECHNICAL SUPPORT | VANCOUVER
+## TECHNICAL SUPPORT | VANCOUVER
 
 ## YOUR IT SOLUTIONS ARE HERE
 
@@ -32,28 +32,22 @@ I have everything that you need to build your online presence, social media,and 
 
 > At Your Service
 
-### **Tech Support**
+**Tech Support for all your devices and websites**
 
-## Tech Support for all your devices and Websites
+**Network Connectivity**
 
-### Network Connectivity
+**Configure, add, and troubleshoot devices**
 
-## Configure, add, troubleshoot devices
+**Up to Date**
 
-### Up to Date
+**Data Backup and Recovery**
 
-Data Backup and Recovery
+**Web Support**
 
-### Web Suport
+You have to make your websites with love these days! and we support you in the process
 
-# You have to make your websites with love these days! and we support you in the process
+Ready to start your next project? That's great! Give me a call or send me an email and I will get back to you as soon as possible!
 
-## Download Free Guide (spanish)
-
-## Let's Get In Touch!
-
-# Ready to start your next project? That's great! Give me a call or send me an email and I will get back to you as soon as possible!
-
-# 604-202-1622
+## 604-202-1622
 
 techsupport@israelacosta.com
