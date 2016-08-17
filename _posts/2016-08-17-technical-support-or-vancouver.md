@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T17:17:47.027Z'
-dateModified: '2016-08-17T17:17:18.363Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-17T17:20:50.848Z'
+dateModified: '2016-08-17T17:17:51.094Z'
 title: TECHNICAL SUPPORT | VANCOUVER
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-technical-support-or-vancouver.md
+authors: []
+publisher: {}
+starred: true
 url: technical-support-or-vancouver/index.html
 _type: Article
 
