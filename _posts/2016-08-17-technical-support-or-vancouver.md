@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T17:31:47.402Z'
-dateModified: '2016-08-17T17:31:16.503Z'
+datePublished: '2016-08-17T17:32:39.365Z'
+dateModified: '2016-08-17T17:32:29.008Z'
 title: TECHNICAL SUPPORT | VANCOUVER
 author: []
 via: {}
@@ -18,6 +18,8 @@ url: technical-support-or-vancouver/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c26f8934-badf-4450-b86a-9b4b01cbbbd7.jpg)
+
 # TECHNICAL SUPPORT | VANCOUVER
 
 ## YOUR IT SOLUTIONS ARE HERE
