@@ -1,7 +1,7 @@
 name: israel-acosta
 favicon: null
-layout_spectrum: 0.49908
-typography_spectrum: 0.50637
+layout_spectrum: 0.99818
+typography_spectrum: 0.25676
 title: IT Support | Vancouver
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#bebab9'
     - '#f05f40'
     - '#f69e8c'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
